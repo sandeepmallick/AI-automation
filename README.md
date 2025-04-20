@@ -1,5 +1,5 @@
 # AI Automation Assignment – Lead Management System
-This project is part of an internship assignment that demonstrates how to automate a lead management system using Make.com, Phantombuster, Apify, Google Sheets, and Python. The aim was to streamline lead generation, enrichment, and storage for outreach campaigns.
+This project is to demonstrates how to automate a lead management system using Make.com, Phantombuster, Apify, Google Sheets, and Python. The aim was to streamline lead generation, enrichment, and storage for outreach campaigns.
 
 # Objective
 To automate the process of:
