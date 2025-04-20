@@ -46,3 +46,6 @@ Wrote a Python script to extract "About Us" or brand descriptions from their off
 Step 2: Generate Keyword-Based Content
 Extracted niche-related keywords from the brand descriptions using simple NLP techniques.
 Used those keywords to auto-generate content that could be used for marketing or email outreach.
+
+# Access The Drive
+link:https://drive.google.com/drive/folders/1qCmd4oTvFLjWIs82hcypqo320-tiukrD?usp=sharing
